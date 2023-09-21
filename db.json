@@ -1,0 +1,46 @@
+{
+  "projects": [
+    {
+      "name": "Teste Alterarção",
+      "budget": "1000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 300,
+      "services": [
+        {
+          "name": "Teste",
+          "cost": "100",
+          "description": "Teste A/B",
+          "id": "eddb8ab1-adf9-4ed0-b7c0-958ec1bb3bf8"
+        },
+        {
+          "name": "Contratar DEV PHP",
+          "cost": "200",
+          "description": "Conexão do banco de dados",
+          "id": "bad96556-2ae1-4c39-b615-2e2f901faaaf"
+        }
+      ],
+      "id": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Desing"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
